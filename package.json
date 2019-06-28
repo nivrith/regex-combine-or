@@ -1,6 +1,6 @@
 {
   "name": "regex-combine-or",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Combines an array of regexes into a single regex using `or` operator `|` ",
   "scripts": {
     "compile": "npm run clean && tsc -b",
