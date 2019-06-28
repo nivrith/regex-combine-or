@@ -1,6 +1,6 @@
 {
   "name": "regex-combine-or",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Combines an array of regexes into a single regex using `or` operator `|` ",
   "scripts": {
     "compile": "npm run clean && tsc -b",
@@ -41,7 +41,7 @@
     "typescript": "^3.5.2"
   },
   "engines": {
-		"node": ">=8",
-		"yarn": ">=1.7.0"
-	}
+    "node": ">=8",
+    "yarn": ">=1.7.0"
+  }
 }
