@@ -11,8 +11,6 @@ Combines an array of regexes into a single regex using `or` operator `|`.
 
 ```js
 
-// async
-
 const { regexCombineOr } = require('regex-combine-or');
 
 let regex = regexCombineOr(/node_modules/, /bower_components/);

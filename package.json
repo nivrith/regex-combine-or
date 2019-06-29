@@ -11,6 +11,16 @@
     "clean": "del-cli dist",
     "docs": "typedoc src"
   },
+  "keywords": [
+    "regex",
+    "combine",
+    "or",
+    "regex-or",
+    "combine-or",
+    "combiner",
+    "typescript",
+    "utility"
+  ],
   "nyc": {
     "extends": "@istanbuljs/nyc-config-typescript",
     "all": true,
